@@ -62,7 +62,8 @@ public class Stack1 {
 	    stack.push(2);
 	    stack.push(3);
 	    stack.push(4);
-
+	    stack.push(5);
+	    //this line is chnaged to push 5
 	    stack.pop();
 	    System.out.println("\nAfter popping out");
 
